@@ -5,11 +5,14 @@
 
 <p align="left"><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></p>
 
-- 📝 Find my web site at [https://seasidetesting.com/](https://seasidetesting.com/)
+- 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
 
 - I wrote a book 📕 'Fast Feedback Using Ruby' ➙ https://leanpub.com/fastfeedbackusingruby/
+
 - Together with Maik Nogens and lots of great contributors, I published 'Software People … Work From Home — Insights & Experiences From Planet Earth' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
     This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
+
+- I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
 
 - 🔭 I’m currently working on a project that helps accessing risk.
 
@@ -21,7 +24,7 @@
 
 - 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a table, the first part is much more interesting, because is more about how I work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
 
-- ⚡ Fun fact *I started to go swimming in autumn… and continued going during winter. It's fun. 🌊🏊🏻‍♂️🌊*
+- ⚡ Fun fact *I started winter swimming in the North Sea in late 2020. It's fun. 🌊🏊🏻‍♂️🌊*
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
