@@ -56,4 +56,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2k&layout=compact" alt="s2k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s2k&show_icons=true" alt="s2k" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s2k&show_icons=true&count_private=true" alt="s2k" /></p>
