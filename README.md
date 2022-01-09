@@ -1,7 +1,8 @@
 ### Moinmoin 👋
 
 <h1 align="center">Hi, I'm Stephan</h1>
-<h3 align="center">I test and write software. I love the ocean & science.</h3>
+<h2 align="center">I test and write software. I love the ocean & science<br/>
+    Currently I'm looking for a new project, ideally one that involves Ruby & software testing.</h2>
 
 <p align="left"><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></p>
 
@@ -14,7 +15,7 @@
 
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
 
-- 🔭 I’m currently **looking for a new project**, ideally one that involved Ruby & software testing.
+- 🔭 I’m currently **looking for a new project**, ideally one that involves Ruby & software testing.
 
 - 🌱 I’m currently learning *Prolog*, update my Rails knowledge and take a TDD course.
 
