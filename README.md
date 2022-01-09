@@ -14,9 +14,9 @@
 
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
 
-- 🔭 I’m currently working on a project that helps accessing risk.
+- 🔭 I’m currently **looking for a new project**, ideally one that involved Ruby & software testing.
 
-- 🌱 I’m currently learning *Elixir*, update my Rails knowledge and take a TDD course.
+- 🌱 I’m currently learning *Prolog*, update my Rails knowledge and take a TDD course.
 
 - 💬 Ask me about *Ruby, software testing, oceanography, physics. I'll answer best I can.*
 
