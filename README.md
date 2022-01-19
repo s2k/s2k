@@ -22,7 +22,7 @@
 <dl>
     <dt>Twitter:</dt><dd><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></dd>
     <dt>E-Mail:</dt>
-    <dd>[the.tester@mac.com](mailto:the.tester@mac.com)</dd>
+  <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
 </dl>
 
 <h3 align="left">Languages & Tools:</h3>
