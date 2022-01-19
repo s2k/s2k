@@ -1,37 +1,29 @@
-### Moinmoin 👋
+<h1 align="center">Moinmoin</h1>
 
-<h1 align="center">Hi, I'm Stephan</h1>
-<h2 align="center">I test and write software. I love the ocean & science<br/>
-    Currently I'm looking for a new project, ideally one that involves Ruby & software testing.</h2>
+<h2>Hi, I'm Stephan</h1>
 
-<p align="left"><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></p>
-
+- I test and write software. I love the ocean & science.
+- Currently I'm looking for a new project, ideally one that involves Ruby & software testing.
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
-
 - I wrote 'Fast Feedback Using Ruby', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/.<br/>
   Also, I contributed the sidebar 'Testing Infrastructure' to [More Agile Testing](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
-
 - Together with Maik Nogens and lots of great contributors, I published 'Software People … Work From Home — Insights & Experiences From Planet Earth' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
     This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
-
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
-
 - 🔭 I’m currently **looking for a new project**, ideally one that involves Ruby & software testing.
-
 - 🌱 I’m currently learning *Prolog*, update my Rails knowledge and take a TDD course.
-
 - 💬 Ask me about *Ruby, software testing, oceanography, physics. I'll answer best I can.*
-
 - 📫 How to reach me: By e-mail to *the.tester@hey.com* ot on Twitter at https://twitter.com/s_2k
-
 - 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a table, the first part is much more interesting, because is more about how I work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
-
 - ⚡ Fun fact *I started winter swimming in the North Sea in late 2020. It's fun. 🌊🏊🏻‍♂️🌊*
 
-<p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://twitter.com/@s_2k" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@s_2k" height="30" width="40" /></a>
-</p>
+
+<dl>
+    <dt>Twitter:</dt><dd><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></dd>
+    <dt>E-Mail:</dt>
+    <dd>[the.tester@mac.com](mailto:the.tester@mac.com)</dd>
+</dl>
 
 <h3 align="left">Languages & Tools:</h3>
 <p align="left">
