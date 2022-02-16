@@ -1,4 +1,4 @@
-<h1 align="center">Moinmoin</h1>
+<h1>Moinmoin</h1>
 
 <h2>Hi, I'm Stephan</h1>
 
@@ -26,7 +26,7 @@
 </dl>
 
 <h3 align="left">Languages & Tools:</h3>
-<p align="left">
+<p>
 <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
 <a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
@@ -48,6 +48,6 @@
 <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a></p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2k&layout=compact" alt="s2k" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2k&layout=compact" alt="s2k" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=s2k&show_icons=true&count_private=true" alt="s2k" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=s2k&show_icons=true&count_private=true" alt="s2k" /></p>
