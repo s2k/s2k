@@ -3,7 +3,7 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean & science.
-- I am speaker: At [Agile Testing Days 2022 (Germany)](https://agiletestingdays.com/) I'll give a workshop ['Fast Feedback Using Ruby'](https://agiletestingdays.com/2022/session/fast-feedback-using-ruby/)
+- I am speaker: At [Agile Testing Days 2022 (Germany)](https://agiletestingdays.com/). I'll give a workshop ['Fast Feedback Using Ruby'](https://agiletestingdays.com/2022/session/fast-feedback-using-ruby/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
 - 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to not buy the book, because it's included 🙂).
 - Also, I contributed the sidebar '*Testing Infrastructure*' to [**More Agile Testing**](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
