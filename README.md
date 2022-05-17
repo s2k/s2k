@@ -3,9 +3,9 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean & science.
-- 🔭 I’m currently **looking for a new project**, ideally one that involves Ruby & software testing.
+- I am speaker: At [Agile Testing Days 2022 (Germany)](https://agiletestingdays.com/) I'll give a workshop ['Fast Feedback Using Ruby'](https://agiletestingdays.com/2022/session/fast-feedback-using-ruby/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
-- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/.
+- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to not buy the book, because it's included 🙂).
 - Also, I contributed the sidebar '*Testing Infrastructure*' to [**More Agile Testing**](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
 - Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights & Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
     This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
