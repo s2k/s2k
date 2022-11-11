@@ -20,7 +20,7 @@
 
 
 <dl>
-    <dt>Mastodon:</dt><dd><a rel="me nofollow" href="https://mastodon.social/@seasidetesting">@seasidetesting@mastodon.social</dd>
+    <dt>Mastodon:</dt><dd><a rel="me" href="https://sw-development-is.social/@TheTraveller">TheTraveller at sw-development-is.social</a></dd>
     <dt>Twitter:</dt><dd><a href="https://twitter.com/s_2k" target="blank"><img src="https://img.shields.io/twitter/follow/s_2k?logo=twitter&style=for-the-badge" alt="@s_2k" /></a></dd>
     <dt>E-Mail:</dt>
   <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
