@@ -12,26 +12,25 @@
 - Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights & Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
     This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
-- I’m currently learning *Prolog*, update my Rails knowledge and take a TDD course.
+- I'm also a mentor at [First Ruby Friend](https://firstrubyfriend.org)
 - 💬 Ask me about *Ruby, software testing, oceanography, physics. I'll answer best I can.*
 - 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a PDF file, the first part is much more interesting, because it's more about how I work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
 - ⚡ Fun fact *I started winter swimming in the North Sea in late 2020. It's fun. 🌊🏊🏻‍♂️🌊*
 
 ## 📫 How to reach me:
 
-
-
 <dl>
     <dt>Mastodon:</dt><dd><a rel="me" href="https://sw-development-is.social/@TheTraveller">TheTraveller at sw-development-is.social</a></dd>
     <dt>Twitter:</dt><dd><a href="https://twitter.com/S_2K" target="blank">https://twitter.com/S_2K</a></dd>
     <dt>E-Mail:</dt>
   <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
+<dt>Bluesky</dt>
+<dd><a href="https://bsky.app/profile/thetraveller.bsky.social">thetraveller.bsky.social</a></dd>
 </dl>
 
 ### Languages & Tools
 
-<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-<a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
+<a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a><a href="https://rubyonrails.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
 <a href="https://www.sqlite.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 <a href="https://travis-ci.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/></a>
 <a href="https://www.jenkins.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/></a>
