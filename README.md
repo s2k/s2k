@@ -3,9 +3,8 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean & science.
-- I am speaker at [Agile Testing Days 2023 (Germany)](https://agiletestingdays.com/)
-  - A workshop "[Fun with U̡̟ͩ̊̏ͬͯni͑c͐̀͢od̲̎ͅḕ̶̩͙͆](https://agiletestingdays.com/2023/session/fun-with-unicode/)"
-  - A talk with  Eveline Moolenaars "[Micropowers: Learn to Speak Up and Be Heard](https://agiletestingdays.com/2023/session/micropowers-learn-to-speak-up-and-be-heard/)"
+- I am speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
+  - A full-day tutorial ["The Disappearance of J. T. Womblegast — A Git Tutorial"](https://agiletestingdays.com/2024/session/the-disappearance-of-j-t-womblegast-a-git-tutorial/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
 - 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to not buy the book, because it's included 🙂).
 - Also, I contributed the sidebar '*Testing Infrastructure*' to [**More Agile Testing**](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
