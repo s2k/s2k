@@ -4,27 +4,32 @@
 
 - I test and write software. I love the ocean & science.
 - I am speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
-  - A full-day tutorial ["The Disappearance of J. T. Womblegast — A Git Tutorial"](https://agiletestingdays.com/2024/session/the-disappearance-of-j-t-womblegast-a-git-tutorial/)
+    - Workshop ['Fun with U̡̟ͩ̊̏ͬͯni͑c͐̀͢od̲̎ͅḕ̶̩͙͆'](https://agiletestingdays.com/2024/session/fun-with-unicode/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
-- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to not buy the book, because it's included 🙂).
-- Also, I contributed the sidebar '*Testing Infrastructure*' to [**More Agile Testing**](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
-- Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights & Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
-    This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
+- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if
+  you plan to attend the workshop, I suggest to **not** buy the book, because it's included 🙂).
+- Also, I contributed the sidebar '*Testing Infrastructure*' to [**More Agile Testing
+  **](https://agiletester.ca/more-agile-testing-the-book/) by Lisa Crispin & Janet Gregory.
+- Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights &
+  Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
+  This book contains personal and hopefully helpful texts from software people from all over the planet describing what
+  they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
 - I'm also a mentor at [First Ruby Friend](https://firstrubyfriend.org)
 - 💬 Ask me about *Ruby, software testing, oceanography, physics. I'll answer best I can.*
-- 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a PDF file, the first part is much more interesting, because it's more about how I work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
+- 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a PDF file, the first part
+  is much more interesting, because it's more about how I
+  work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
 - ⚡ Fun fact *I started winter swimming in the North Sea in late 2020. It's fun. 🌊🏊🏻‍♂️🌊*
 
 ## 📫 How to reach me:
 
 <dl>
     <dt>Mastodon:</dt><dd><a rel="me" href="https://sw-development-is.social/@TheTraveller">TheTraveller at sw-development-is.social</a></dd>
-    <dt>Twitter:</dt><dd><a href="https://twitter.com/S_2K" target="blank">https://twitter.com/S_2K</a></dd>
-    <dt>E-Mail:</dt>
-  <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
 <dt>Bluesky</dt>
 <dd><a href="https://bsky.app/profile/thetraveller.bsky.social">thetraveller.bsky.social</a></dd>
+    <dt>E-Mail:</dt>
+  <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
 </dl>
 
 ### Languages & Tools
