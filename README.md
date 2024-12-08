@@ -3,7 +3,7 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean & science.
-- I am speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
+- I was a speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
     - Workshop ['Fun with U̡̟ͩ̊̏ͬͯni͑c͐̀͢od̲̎ͅḕ̶̩͙͆'](https://agiletestingdays.com/2024/session/fun-with-unicode/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
 - 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if
