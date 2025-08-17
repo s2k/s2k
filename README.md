@@ -3,6 +3,7 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean and science.
+- I may be available for a new software testing project early 2026.
 - I was a speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
     - Workshop ['Fun with U̡̟ͩ̊̏ͬͯni͑c͐̀͢od̲̎ͅḕ̶̩͙͆'](https://agiletestingdays.com/2024/session/fun-with-unicode/)
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
