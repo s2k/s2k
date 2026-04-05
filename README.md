@@ -23,7 +23,7 @@
 <dt>Bluesky</dt>
 <dd><a href="https://bsky.app/profile/thetraveller.bsky.social">thetraveller.bsky.social</a></dd>
     <dt>E-Mail:</dt>
-  <dd><a href="mailto:the.tester@mac.com">the.tester@mac.com</a></dd>
+  <dd><a href="mailto:the.tester@seasidetesting.com">the.tester@seasidetesting.com</a></dd>
 </dl>
 
 ### Languages & Tools
