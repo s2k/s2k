@@ -46,9 +46,3 @@
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
 <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a>
 <a href="https://www.vagrantup.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/></a>
-
-<hr/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2k&layout=compact" alt="s2k" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=s2k&show_icons=true&count_private=true" alt="s2k" />
