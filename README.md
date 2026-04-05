@@ -3,24 +3,17 @@
 <h2>Hi, I'm Stephan</h1>
 
 - I test and write software. I love the ocean and science.
-- I may be available for a new software testing project early 2026.
-- I was a speaker at [Agile Testing Days 2024 (Germany)](https://agiletestingdays.com/)
-    - Workshop ['Fun with U̡̟ͩ̊̏ͬͯni͑c͐̀͢od̲̎ͅḕ̶̩͙͆'](https://agiletestingdays.com/2024/session/fun-with-unicode/)
+- I am available for a new software testing project early 2027.
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
-- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if
-  you plan to attend the workshop, I suggest to **not** buy the book, because it's included 🙂).
+- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to **not** buy the book, because it's included 🙂).
 - Also, I contributed the sidebar '*Testing Infrastructure*' to **[More Agile Testing
   ](https://agiletester.ca/more-agile-testing-the-book/)** by Lisa Crispin & Janet Gregory.
-- Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights &
-  Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
-  This book contains personal and hopefully helpful texts from software people from all over the planet describing what
-  they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
+- Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights & Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
+  This book contains personal and hopefully helpful texts from software people from all over the planet describing what they have experiences & observed during the COVID-19 pandemic. Get it. It's free! 🙂
 - I'm a [Cucumber](https://github.com/cucumber) committer. 🥒
 - I'm also a mentor at [First Ruby Friend](https://firstrubyfriend.org)
-- 💬 Ask me about *Ruby, software testing, oceanography, physics, or open water swimming . I'll answer best I can.*
-- 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a PDF file, the first part
-  is much more interesting, because it's more about how I
-  work; [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
+- 💬 Ask me about *Ruby, software testing, oceanography, physics, open water swimming, or my cancer therapy . I'll answer best I can.*
+- 📄 About my work – including a 'traditional' (and not particularly exciting) CV in form of a PDF file, the first part is much more interesting, because it's more about how I work ➙ [https://seasidetesting.com/work-with-me](https://seasidetesting.com/work-with-me)
 - ⚡ Fun fact: *I started winter swimming in the North Sea in late 2020. It's fun. 🌊🏊🏻‍♂️🌊*
 
 ## 📫 How to reach me:
