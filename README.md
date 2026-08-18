@@ -5,7 +5,7 @@
 - I test and write software. I love the ocean and science.
 - I am available for a new software testing project early 2027.
 - 📝 Find my web site at [seasidetesting.com](https://seasidetesting.com/)
-- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to **not** buy the book, because it's included 🙂). The book now covers Ruby 4.
+- 🔁 I wrote '**Fast Feedback Using Ruby**', available on LeanPub at https://leanpub.com/fastfeedbackusingruby/ (and if you plan to attend the workshop, I suggest to **not** buy the book, because it's included 🙂). The book covers Ruby 4.
 - Also, I contributed the sidebar '*Testing Infrastructure*' to **[More Agile Testing
   ](https://agiletester.ca/more-agile-testing-the-book/)** by Lisa Crispin & Janet Gregory.
 - Together with Maik Nogens and lots of great contributors, I published '**Software People … Work From Home — Insights & Experiences From Planet Earth**' ➙ https://leanpub.com/softwarepeopleworkfromhome 📓
